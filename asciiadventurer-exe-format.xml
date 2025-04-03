@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>console</headerType>
-  <jar>C:\Users\blade\OneDrive\Documents\GitHub\BarrettHall\ASCII-Adventurer\game\asciiadventurer.jar</jar>
-  <outfile>C:\Users\blade\OneDrive\Documents\GitHub\BarrettHall\ASCII-Adventurer\game\ASCII-Adventurer.exe</outfile>
+  <jar>C:\Users\blade\OneDrive\Documents\GitHub\ASCII-Adventurer\ASCII-Adventurer\game\asciiadventurer.jar</jar>
+  <outfile>C:\Users\blade\OneDrive\Documents\GitHub\ASCII-Adventurer\ASCII-Adventurer\game\ASCII-Adventurer.exe</outfile>
   <errTitle>You need to download the correct version of java</errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
